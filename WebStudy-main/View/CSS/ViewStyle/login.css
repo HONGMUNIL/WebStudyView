@@ -12,3 +12,13 @@ html,body {
     left: 50%;
     margin: -25px 0 0 -25px; 
 }
+
+.input-label {
+    background-color: azure;
+    margin-top: 19px;
+    margin-bottom: 8px;
+    /* 글자의 크기 */
+    font-size: 14px;
+    /* 글자의 굵기 */
+    font-weight: 700;
+}
